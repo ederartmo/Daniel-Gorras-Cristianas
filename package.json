@@ -1,0 +1,24 @@
+{
+  "name": "daniel-gorras-cristianas",
+  "version": "1.0.0",
+  "description": "Sitio BOON & BLESS servido con Node.js para Hostinger.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "hostinger",
+    "ecommerce"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
